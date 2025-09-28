@@ -45,7 +45,7 @@ body {
     display: flex;
     gap: 20px;
     align-items: center;
-
+}
 .category {
     display: flex;
     justify-content: space-between;
