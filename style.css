@@ -44,8 +44,8 @@ body {
 .navbar_s3 {
     display: flex;
     gap: 20px;
-    align-items: center;
-}
+    align-items: center;}
+
 .category {
     display: flex;
     justify-content: space-between;
@@ -103,7 +103,7 @@ body {
     flex-basis: 25%;
 }
 
-.project {
+.subtopic {
     padding: 10px;
 }
 
