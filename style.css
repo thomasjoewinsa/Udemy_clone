@@ -17,7 +17,7 @@ body {
     position: sticky;
     top:0px;
     background-color: white;
-
+    z-index: 1;
 }
 
 .navbar_s1_title {
@@ -95,6 +95,7 @@ body {
     position: absolute;
     bottom: 300px;
     left: 10px;
+}
     
 .recommended {
     padding: 10px;
