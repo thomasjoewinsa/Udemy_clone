@@ -49,7 +49,22 @@ body {
 .navbar_s3 {
     display: flex;
     gap: 20px;
-    align-items: center;}
+    align-items: center;
+}
+.category {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    border-bottom: solid black 1px;
+}
+
+.category p {
+    border: solid black 1px;
+    border-radius: 30px;
+    background-color: #A435F0;
+    color: white;
+    padding: 10px;
+}
 .mylearning{
     position: relative;
     cursor: pointer;
@@ -66,20 +81,6 @@ body {
 }
 .mylearning:hover .mylearning_popup{
     display: block;
-}
-.category {
-    display: flex;
-    justify-content: space-between;
-    padding: 40px;
-    border-bottom: solid black 1px;
-}
-
-.category p {
-    border: solid black 1px;
-    border-radius: 30px;
-    background-color: #A435F0;
-    color: white;
-    padding: 10px;
 }
 .sales_image{
     position: inherit;
